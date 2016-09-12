@@ -1,0 +1,5 @@
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafe\bin\Debug\AcuCafe.dll
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafe\bin\Debug\AcuCafe.pdb
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.dll
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.pdb

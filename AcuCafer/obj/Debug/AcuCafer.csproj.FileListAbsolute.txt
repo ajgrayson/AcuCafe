@@ -1,0 +1,8 @@
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafer\bin\Debug\AcuCafer.exe.config
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafer\bin\Debug\AcuCafer.exe
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafer\bin\Debug\AcuCafer.pdb
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafer\bin\Debug\AcuCafe.dll
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafer\bin\Debug\AcuCafe.pdb
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafer\obj\Debug\AcuCafer.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafer\obj\Debug\AcuCafer.exe
+\\Mac\Home\Downloads\AcuCafe\AcuCafe\AcuCafer\obj\Debug\AcuCafer.pdb
